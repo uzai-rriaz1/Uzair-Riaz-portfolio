@@ -1,0 +1,9 @@
+.left-side {
+  margin-right: 50px;
+}
+
+@media (max-width: 765px) {
+  .left-side {
+    margin-right: 0px;
+  }
+}
