@@ -26,7 +26,7 @@ const About = () => {
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
             <span className="text-white">I am a </span>
             <TypeAnimation
-              sequence={["Frontend Developer", 2000, "Coder", 2000]}
+              sequence={["MERN Developer", 2000, "Coder", 2000]}
               speed={20}
               repeat={Infinity}
             />
