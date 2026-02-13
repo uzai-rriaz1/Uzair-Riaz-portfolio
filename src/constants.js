@@ -55,7 +55,7 @@ import imagesearchLogo from "./assets/work_logo/image_search.png";
 import removebgLogo from "./assets/work_logo/remove_bg.png";
 import inkframe from "./assets/work_logo/inkframe.png";
 import tomato from "./assets/work_logo/tomato.png";
-import Dashboard from "./assets/work_logo/Dashboard.png";
+import dashboard from "./assets/work_logo/Dashboard.png";
 import password from "./assets/work_logo/password.png";
 
 export const SkillsInfo = [
@@ -257,10 +257,8 @@ export const projects = [
     id: 3,
     title: "Notes App",
     description:
-      "Developed a secure MERN based notes management application with JWT authentication, 
-role protected routes, and RESTful APIs built using Node.js and Express, backed by MongoDB 
-for persistent data storage.",
-    image: Dashboard,
+      "Developed a secure MERN based notes management application with JWT authentication, role protected routes, and RESTful APIs built using Node.js and Express, backed by MongoDB for persistent data storage.",
+    image: dashboard,
     tags: ["React JS", "Node.js", "NPM", "Validation"],
     github: "https://github.com/uzai-rriaz1/Note_App",
     webapp: "https://drive.google.com/file/d/1GvyNMuOINqRv0AM9apjmvbWTUG1NrhtG/view?usp=drive_link",
