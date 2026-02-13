@@ -259,12 +259,7 @@ export const projects = [
     description:
       "Developed a secure MERN based notes management application with JWT authentication, 
 role protected routes, and RESTful APIs built using Node.js and Express, backed by MongoDB 
-for persistent data storage; optimized frontend rendering and load behavior, achieving a 85 
-Lighthouse performance score on production build with First Contentful Paint (FCP) and 
-Largest Contentful Paint (LCP) under 0.5 seconds; built a responsive, accessible UI using React 
-and Tailwind CSS; load tested JWT protected backend APIs using Artillery, simulating 600 
-virtual users over a 60 second window and validating backend stability and security with p95 
-response times under 5ms. ",
+for persistent data storage.",
     image: Dashboard,
     tags: ["React JS", "Node.js", "NPM", "Validation"],
     github: "https://github.com/uzai-rriaz1/Note_App",
