@@ -55,6 +55,7 @@ import imagesearchLogo from "./assets/work_logo/image_search.png";
 import removebgLogo from "./assets/work_logo/remove_bg.png";
 import inkframe from "./assets/work_logo/inkframe.png";
 import tomato from "./assets/work_logo/tomato.png";
+import Dashboard from "./assets/work_logo/Dashboard.png";
 import password from "./assets/work_logo/password.png";
 
 export const SkillsInfo = [
@@ -252,16 +253,23 @@ export const projects = [
     github: "https://github.com/uzai-rriaz1/Random_Password_Generator",
     webapp: "https://random-password-generator-chi-three.vercel.app/",
   },
-  // {
-  //   id: 3,
-  //   title: "Email Validator NPM Package",
-  //   description:
-  //     "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
-  //   image: npmLogo,
-  //   tags: ["React JS", "Node.js", "NPM", "Validation"],
-  //   github: "https://github.com/codingmastr/cmtk-email-validator",
-  //   webapp: "https://www.npmjs.com/package/cmtk-email-validator",
-  // },
+  {
+    id: 3,
+    title: "Notes App",
+    description:
+      "Developed a secure MERN based notes management application with JWT authentication, 
+role protected routes, and RESTful APIs built using Node.js and Express, backed by MongoDB 
+for persistent data storage; optimized frontend rendering and load behavior, achieving a 85 
+Lighthouse performance score on production build with First Contentful Paint (FCP) and 
+Largest Contentful Paint (LCP) under 0.5 seconds; built a responsive, accessible UI using React 
+and Tailwind CSS; load tested JWT protected backend APIs using Artillery, simulating 600 
+virtual users over a 60 second window and validating backend stability and security with p95 
+response times under 5ms. ",
+    image: Dashboard,
+    tags: ["React JS", "Node.js", "NPM", "Validation"],
+    github: "https://github.com/uzai-rriaz1/Note_App",
+    webapp: "https://drive.google.com/file/d/1GvyNMuOINqRv0AM9apjmvbWTUG1NrhtG/view?usp=drive_link",
+  },
   // {
   //   id: 4,
   //   title: "Task Reminder Chrome Extension Tool",
