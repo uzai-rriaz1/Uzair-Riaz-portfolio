@@ -243,16 +243,16 @@ export const projects = [
     github: "https://github.com/uzai-rriaz1/Tomato_Food_Ordering",
     webapp: "https://tomato-food-ordering-beta.vercel.app/",
   },
-  // {
-  //   id: 2,
-  //   title: "Random Password Generator",
-  //   description:
-  //     "A React-based web application that provides Random password with symbols which can be used as an secure password.",
-  //   image: password,
-  //   tags: ["React JS", "Tailwind", "HTML", "CSS", "JavaScript"],
-  //   github: "https://github.com/uzai-rriaz1/Random_Password_Generator",
-  //   webapp: "https://random-password-generator-chi-three.vercel.app/",
-  // },
+  {
+    id: 2,
+    title: "Random Password Generator",
+    description:
+      "A React-based web application that provides Random password with symbols which can be used as an secure password.",
+    image: password,
+    tags: ["React JS", "Tailwind", "HTML", "CSS", "JavaScript"],
+    github: "https://github.com/uzai-rriaz1/Random_Password_Generator",
+    webapp: "https://random-password-generator-chi-three.vercel.app/",
+  },
   {
     id: 3,
     title: "Notes App",
