@@ -259,7 +259,7 @@ export const projects = [
     description:
       "Developed a secure MERN based notes management application with JWT authentication, role protected routes, and RESTful APIs built using Node.js and Express, backed by MongoDB for persistent data storage.",
     image: dashboard,
-    tags: ["React JS", "Node.js", "NPM", "Validation"],
+    tags: ["React JS", "Node.js", "MongoDB", "JWT"],
     github: "https://github.com/uzai-rriaz1/Note_App",
     webapp: "https://drive.google.com/file/d/1GvyNMuOINqRv0AM9apjmvbWTUG1NrhtG/view?usp=drive_link",
   },
