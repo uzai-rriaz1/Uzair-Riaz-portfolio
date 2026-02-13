@@ -33,8 +33,8 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed text-size">
-            I'm a front-end developer with over 6 Months of experience building
-            responsive, scalable web applications. I specialize in React, Redux,
+            I'm a MERN Developer with over 6 Months of experience building
+            responsive, scalable web applications. I specialize in React, Redux, Node, Express, MongoDB
             and TailwindCSS, and I'm passionate about crafting seamless user
             experiences through clean architecture and modern design systems.
           </p>
