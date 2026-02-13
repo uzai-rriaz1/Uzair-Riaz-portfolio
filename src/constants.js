@@ -79,13 +79,13 @@ export const SkillsInfo = [
   {
     title: "Backend",
     skills: [
-      { name: "Springboot", logo: springbootLogo },
+      // { name: "Springboot", logo: springbootLogo },
       { name: "Node JS", logo: nodejsLogo },
       { name: "Express JS", logo: expressjsLogo },
-      { name: "MySQL", logo: mysqlLogo },
+      // { name: "MySQL", logo: mysqlLogo },
       { name: "MongoDB", logo: mongodbLogo },
       { name: "Firebase", logo: firebaseLogo },
-      { name: "PostgreSQL", logo: postgreLogo },
+      // { name: "PostgreSQL", logo: postgreLogo },
     ],
    },
   {
@@ -106,7 +106,7 @@ export const SkillsInfo = [
       { name: "Git", logo: gitLogo },
       { name: "GitHub", logo: githubLogo },
       { name: "VS Code", logo: vscodeLogo },
-      // { name: "Postman", logo: postmanLogo },
+      { name: "Postman", logo: postmanLogo },
       // { name: "Compass", logo: mcLogo },
       { name: "Vercel", logo: vercelLogo },
       { name: "Netlify", logo: netlifyLogo },
