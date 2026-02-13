@@ -75,18 +75,18 @@ export const SkillsInfo = [
       // { name: "Bootstrap", logo: bootstrapLogo },
     ],
   },
-  // {
-  //   title: "Backend",
-  //   skills: [
-  //     { name: "Springboot", logo: springbootLogo },
-  //     { name: "Node JS", logo: nodejsLogo },
-  //     { name: "Express JS", logo: expressjsLogo },
-  //     { name: "MySQL", logo: mysqlLogo },
-  //     { name: "MongoDB", logo: mongodbLogo },
-  //     { name: "Firebase", logo: firebaseLogo },
-  //     { name: "PostgreSQL", logo: postgreLogo },
-  //   ],
-  // },
+  {
+    title: "Backend",
+    skills: [
+      { name: "Springboot", logo: springbootLogo },
+      { name: "Node JS", logo: nodejsLogo },
+      { name: "Express JS", logo: expressjsLogo },
+      { name: "MySQL", logo: mysqlLogo },
+      { name: "MongoDB", logo: mongodbLogo },
+      { name: "Firebase", logo: firebaseLogo },
+      { name: "PostgreSQL", logo: postgreLogo },
+    ],
+   },
   {
     title: "Languages",
     skills: [
